@@ -1,7 +1,7 @@
 # calculator.py
 class SimpleCalcs:
     def addition(self, a, b):
-        return a * b
+        return a + b
     
     def subtraction(self, a, b):
         return a - b
